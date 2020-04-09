@@ -10,6 +10,7 @@ The sheet queries the virtual proxy prefix with
 qlik.getGlobal().session.options.prefix
 
 QS February 2019 would show the prefix
+
 QS February 2020 relaod the page as qlik.getGlobal() tries to reopen the app without the virtual proxy prefix set
 
 

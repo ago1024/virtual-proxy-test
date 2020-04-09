@@ -2,9 +2,9 @@
 
 Test Qlik Sense virtual proxy prefix
 
-# Install virtual-proxy-test.zip extension
-# Import virtual-proxy-test.qvf app
-# Open app
+* Install virtual-proxy-test.zip extension
+* Import virtual-proxy-test.qvf app
+* Open app
 
 The sheet queries the virtual proxy prefix with
 qlik.getGlobal().session.options.prefix
